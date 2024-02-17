@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soufiane Gouait</h1>
 <h3 align="center">Data Science & Digital Finance Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soufianegouait" alt="soufianegouait" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.be0e3a927d3ff9f0773d36ad25f09571?rik=55z1KxsBHQ7I4Q&riu=http%3a%2f%2fwww.marketing-etudiant.fr%2fwp-content%2fuploads%2f2014%2f02%2f10-technology.gif&ehk=wBUaCZ5BW1wCzU2bgnXGEDbIwBWMNb7h6OUjiXuwGq8%3d&risl=&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianegouait&label=Profile%20views&color=0e75b6&style=flat" alt="soufianegouait" /> </p>
 
