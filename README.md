@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soufiane Gouait</h1>
 <h3 align="center">Data Science & Digital Finance Engineering Student</h3>
-<img align="right" alt="Coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d5f77c104128975.5f5bdc0d6d7b6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianegouait&label=Profile%20views&color=0e75b6&style=flat" alt="soufianegouait" /> </p>
 
