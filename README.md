@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]
 <h1 align="center">Hi 👋, I'm Soufiane Gouait</h1>
 <h3 align="center">Data Science & Digital Finance Engineering Student</h3>
 <img src="https://i.gifer.com/RXi9.gif">
