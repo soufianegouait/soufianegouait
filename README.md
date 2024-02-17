@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soufianegouait&" alt="soufianegouait" /></p>
 
-### Daily Random Quote :
+### Random Quote Of The Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
